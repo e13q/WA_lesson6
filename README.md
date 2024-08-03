@@ -29,6 +29,7 @@ pip install -r requirements.txt
 
 ```python3 main.py```
 
+
 В таком случае публиковаться комиксы будут раз в 14400 секунд (4 часа).
 
 Отобразить доступные параметры можно с помощью команды:
@@ -41,6 +42,7 @@ pip install -r requirements.txt
 
 ### Пример работы скрипта
 
+![example_](https://github.com/user-attachments/assets/8b5a72a5-8762-4907-b2ca-30423d24b7be)
 
 ### Цель проекта
 
