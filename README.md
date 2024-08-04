@@ -31,6 +31,8 @@ pip install -r requirements.txt
 
 ### Пример работы скрипта
 
+![example5](https://github.com/user-attachments/assets/1cb3c944-c6ca-49b7-b04a-e37fa06e3423)
+
 
 ### Цель проекта
 
