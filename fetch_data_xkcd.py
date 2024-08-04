@@ -13,7 +13,7 @@ def fetch_comix(index):
     url = f'https://xkcd.com/{index}/info.0.json'
     response = requests.get(url)
     response.raise_for_status()
-    response_dict = response.json()
-    img_url = response_dict['img']
-    comment = response_dict['alt']
+    response = response.json()
+    img_url = response['img']
+    comment = response['alt']
     return img_url, comment
